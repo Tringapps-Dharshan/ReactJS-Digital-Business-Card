@@ -1,0 +1,19 @@
+.digital-card{
+    padding: 20px;
+    margin: 50px;
+}
+
+.card-profile{
+    Max-height: 600px;
+}
+
+.icons{
+    background: lightgray;
+}
+
+.role{
+    color: burlywood;
+}
+.email-id,.role{
+    font-weight: 200;
+}
